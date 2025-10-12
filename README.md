@@ -15,4 +15,4 @@ Mi nombre es Daniela Saba, soy ingeniera financiera y especializandome en Data S
 
 ### Conecta conmigo
 
-* [LinkedIn]([https://www.linkedin.com/in/danielasabarosner/])
+* [LinkedIn](https://www.linkedin.com/in/danielasabarosner/)
