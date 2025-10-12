@@ -1,6 +1,6 @@
 ## ¡Hola! 👋
 
-Mi nombre es Daniela Saba, soy ingeniera financiera y especializandome en Data Science.
+Mi nombre es Daniela Saba, soy ingeniera financiera y estoy especializandome en Data Science.
 
 ### Un poco sobre mí:
 
