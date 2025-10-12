@@ -1,7 +1,6 @@
 ## ¡Hola! 👋
 
-<!--
-**dsabarosner/dsabarosner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Daniela Saba, soy ingeniera financiera y especializandome en Data Science.
 
 ### Un poco sobre mí:
 
