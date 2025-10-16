@@ -7,6 +7,7 @@ Mi nombre es Daniela Saba, soy ingeniera financiera y estoy especializandome en 
 - 💻 **Actualmente:** Trabajando como Business Intelligence Analyst en CIDRE IFD.
 - 🎓 **Me encanta:** aprender y me interesa el análisis y la ciencia de datos.
 - 💡 Busco crecimiento personal y nuevos retos.
+- 🤝 Habilidades blandas: comunicación efectiva, adaptabilidad, pensamiento crítico, orientación a resultados y trabajo colaborativo.
 - 🏃‍♂️🏖️📚 **Fuera del código:** Equilibrio en la vida, lectura, deporte y viajes.
 
 ### Tecnologías y Herramientas
